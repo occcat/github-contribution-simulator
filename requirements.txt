@@ -1,0 +1,6 @@
+# No external dependencies required
+# Uses only Python standard library:
+# - random, datetime, json, argparse, subprocess, pathlib, etc.
+
+# Optional for development:
+# pytest>=7.0.0
